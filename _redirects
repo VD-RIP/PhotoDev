@@ -1,0 +1,3 @@
+/papi/*      /mock_api.json   200
+/mirror.php  /mock_api.json   200
+/*           /index.html      200
